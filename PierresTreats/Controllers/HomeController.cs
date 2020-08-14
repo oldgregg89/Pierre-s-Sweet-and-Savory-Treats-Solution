@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using RecipeBox.Models;
+using PierresTreats.Models;
 using System.Collections.Generic;
 
 namespace PierresTreats.Controllers

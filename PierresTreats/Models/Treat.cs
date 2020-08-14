@@ -7,12 +7,12 @@ namespace PierresTreats.Models
   {
     public Treat()  
     {
-      this.Categories = new HashSet<CategoryTreat>();
+      this.Flavors = new HashSet<FlavorTreat>();
     }
     public int TreatId { get; set; }
-    public string Kind { get; set; }
+    public string Type { get; set; }
     public string Ingredients { get; set; }
     public virtual ApplicationUser User { get; set; }
-    public ICollection<CategoryTreat> Flavors { get; }
+    public ICollection<FlavorTreat> Flavors { get; }
   }
 }
