@@ -2,7 +2,7 @@
 
 # _Pierres Treats_ 
 </strong></h1>
-
+![Bakery](https://media.giphy.com/media/4SXULfEtV0O0DvijQy/giphy.gif)
 
 #### A practice in Authentication with Identity within C# & .Net through anapplication that is based out on Pieres Treats._ , 2020 ver 1.0_
 
