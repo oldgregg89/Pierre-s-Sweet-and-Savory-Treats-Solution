@@ -28,6 +28,13 @@ _A practice in Authentication with Identity within C# & .Net through anapplicati
 in the terminal
 * add a file called `appsetting.json` in the HairSalon directory.
 * in `appsetting.json` add ![appsetting.json](Assets/setup.png)
+```
+{
+  "ConnectionStrings": {
+      "DefaultConnection": "Server=localhost;Port=(port#);database=(database name);uid=root;pwd=(password);"
+  }
+}
+```
 * fill in your `server`, `port`,`database`,`uid`, and `pwd`
 * Make suere to have your `MySQLWorkbench` open
 * run 
